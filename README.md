@@ -20,5 +20,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/rubenmartins10/LeetCode-Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/rubenmartins10/LeetCode-Problems/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->

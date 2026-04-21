@@ -22,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/rubenmartins10/LeetCode-Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/rubenmartins10/LeetCode-Problems/tree/master/0607-sales-person) |
+| [0620-not-boring-movies](https://github.com/rubenmartins10/LeetCode-Problems/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
